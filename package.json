@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "webpack-setup",
   "version": "1.0.0",
   "description": "",
